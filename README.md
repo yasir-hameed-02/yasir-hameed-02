@@ -35,8 +35,9 @@ The project emphasizes **hands-on learning and practical applications** of ethic
 ---
 
 ### 📊 GitHub Analytics
-![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-hammed-02&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hammed-02&layout=compact&theme=radical)
+![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=radical)
+
 
 ---
 
