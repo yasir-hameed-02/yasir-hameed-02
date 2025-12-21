@@ -1,56 +1,44 @@
-## 👋 Hey, I'm **Yasir Hammed**
+# 🌟 Hey there, I'm Yasir Hammed
 
-🎓 **BS Cyber Security Student** | 🖥️ Security Researcher | 💻 Code Enthusiast  
-
----
-
-## 🧩 About Me
-Passionate about understanding **system vulnerabilities**, **network security**, and **digital privacy**.  
-I explore how systems work at a deeper level and **practice ethical hacking** to build stronger defenses.  
+🎓 **BS Cyber Security Student** | 💻 **Aspiring Ethical Hacker** | ⚙️ **Tech & Programming Enthusiast**
 
 ---
 
-## 🚀 Current Focus
-- 🔒 Network Security & Ethical Hacking  
-- 🧠 Reverse Engineering & Malware Analysis  
-- 💻 Programming: Python, Java, C++  
-- 🐧 Linux Systems & Automation  
-- 🔍 Threat Analysis & Digital Forensics  
+### 🧠 About Me
+I’m pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  
+I’m passionate about **ethical hacking, social engineering, and digital defense**, and I love exploring **how systems operate at a deeper level**.  
+I constantly practice and experiment with **offensive and defensive cybersecurity techniques**, while building a **strong programming foundation** to develop secure and efficient solutions.  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python | Java | C++  
-**Tools:** Kali Linux | Wireshark | Nmap | Metasploit  
-**Web & DB:** HTML | CSS | MySQL  
-**Other:** Docker | Git | VSCode  
+### 🚀 Currently Learning
+- 🔐 **Ethical Hacking & Penetration Testing**  
+- 🧩 **Data Structures & Algorithms**  
+- 💻 **Programming in Python, Java, C++**  
+- 🐧 **Linux Administration (Kali & Ubuntu) & Digital Forensics**  
 
 ---
 
-## 🧩 Featured Projects
-### 🔹 CyberSecure Automation
-Scripts and tools for **vulnerability scanning**, **network monitoring**, and **learning exploits in a safe environment**.
-
-### 🔹 Mini Malware Analyzer
-Personal project for **analyzing suspicious files** and understanding malware behavior.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <!-- GitHub Stats card (normal rectangle) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=default&hide_border=false" width="400"/>
-  
-  <!-- Top Languages card (normal rectangle) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=default&hide_border=false" width="400"/>
-</p>
+### ⚙️ Skills & Knowledge
+- **Programming Languages:** Python | Java | C++  
+- **Cybersecurity Tools:** Kali Linux, Wireshark, Nmap, Metasploit  
+- **Web & Database Basics:** HTML | CSS | MySQL  
+- **Design Tools:** Canva | Figma  
 
 ---
 
-## ⭐ Personal Motto
-> **“Learn ethically, explore deeply, and secure systems responsibly.”**
+### 🧩 Featured Project
+#### 🔹 **CyberSecure Tools**
+A personal project focused on **creating scripts and tools** to explore system vulnerabilities, automate security testing, and strengthen my cybersecurity skills.  
+The project emphasizes **hands-on learning and practical applications** of ethical hacking and programming logic.  
+
+---
+
+### 📊 GitHub Analytics
+![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=radical)
 
 
-## ⭐ Personal Motto
-> **“Hack ethically, learn continuously, and secure relentlessly.”**
+---
+
+⭐ **“Learning never stops — especially when it comes to securing the digital world.”**
