@@ -59,12 +59,15 @@ This project reflects my **hands-on approach to learning cybersecurity**.
 > mode: learning & experimenting  
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats card (normal rectangle) -->
-![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
 
-<!-- Top Languages card (different layout, still rectangle) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=donut&theme=tokyonight)
+<p align="center">
+  <!-- GitHub Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000&hide_border=true" width="400"/>
 
+  <!-- Top Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=dark&title_color=00ff00&text_color=00ff00&bg_color=000000&hide_border=true" width="400"/>
+</p>
 
 
 
