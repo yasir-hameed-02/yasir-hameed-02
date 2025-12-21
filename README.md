@@ -53,8 +53,10 @@ This project reflects my **hands-on approach to learning cybersecurity**.
 
 ---
 
-## 📊 GitHub Activity
-## 📈 Skill Radar
+## 🛡️ Live Console
+
+> status: active  
+> mode: learning & experimenting  
 
 ![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=tokyonight)
