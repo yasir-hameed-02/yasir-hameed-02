@@ -6,7 +6,7 @@
 
 ## 🧩 About Me
 Passionate about understanding **system vulnerabilities**, **network security**, and **digital privacy**.  
-I explore how things work at a deeper level and **practice ethical hacking** to build stronger defenses.  
+I explore how systems work at a deeper level and **practice ethical hacking** to build stronger defenses.  
 
 ---
 
@@ -39,13 +39,18 @@ Personal project for **analyzing suspicious files** and understanding malware be
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stats card in stacked vertical layout -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000&hide_border=true" width="450"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=donut&theme=dark&title_color=00ff00&text_color=00ff00&bg_color=000000&hide_border=true" width="450"/>
+  <!-- GitHub Stats card (normal rectangle) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=default&hide_border=false" width="400"/>
+  
+  <!-- Top Languages card (normal rectangle) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=default&hide_border=false" width="400"/>
 </p>
 
 ---
+
+## ⭐ Personal Motto
+> **“Learn ethically, explore deeply, and secure systems responsibly.”**
+
 
 ## ⭐ Personal Motto
 > **“Hack ethically, learn continuously, and secure relentlessly.”**
