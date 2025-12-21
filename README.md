@@ -1,44 +1,63 @@
-# 🌟 Hey there, I'm Yasir Hammed
+## 👋 Hi, I'm **Yasir Hammed**
 
-🎓 **BS Cyber Security Student** | 💻 **Aspiring Ethical Hacker** | ⚙️ **Tech & Programming Enthusiast**
-
----
-
-### 🧠 About Me
-I’m pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  
-I’m passionate about **ethical hacking, social engineering, and digital defense**, and I love exploring **how systems operate at a deeper level**.  
-I constantly practice and experiment with **offensive and defensive cybersecurity techniques**, while building a **strong programming foundation** to develop secure and efficient solutions.  
+🎓 **BS Cyber Security Student**  
+🛡️ Future Ethical Hacker | 💻 Programmer | 🔍 Security Explorer  
 
 ---
 
-### 🚀 Currently Learning
-- 🔐 **Ethical Hacking & Penetration Testing**  
-- 🧩 **Data Structures & Algorithms**  
-- 💻 **Programming in Python, Java, C++**  
-- 🐧 **Linux Administration (Kali & Ubuntu) & Digital Forensics**  
+## 🧠 Who Am I?
+I’m a **Cyber Security undergraduate from Pakistan 🇵🇰** with a strong interest in understanding how systems break — and how to protect them better.  
+My focus is on **ethical hacking, social engineering, and digital defense**, backed by solid programming and logical thinking.
+
+I believe real cybersecurity skills are built through **hands-on practice**, experimentation, and continuous learning — not just theory.
 
 ---
 
-### ⚙️ Skills & Knowledge
-- **Programming Languages:** Python | Java | C++  
-- **Cybersecurity Tools:** Kali Linux, Wireshark, Nmap, Metasploit  
-- **Web & Database Basics:** HTML | CSS | MySQL  
-- **Design Tools:** Canva | Figma  
+## 🚀 What I’m Working On
+- 🔐 Ethical Hacking & Penetration Testing  
+- 🧠 Data Structures & Algorithms  
+- 💻 Programming (Python, Java, C++)  
+- 🐧 Linux Administration (Kali & Ubuntu)  
+- 🕵️ Digital Forensics & System Analysis  
 
 ---
 
-### 🧩 Featured Project
-#### 🔹 **CyberSecure Tools**
-A personal project focused on **creating scripts and tools** to explore system vulnerabilities, automate security testing, and strengthen my cybersecurity skills.  
-The project emphasizes **hands-on learning and practical applications** of ethical hacking and programming logic.  
+## 🛠️ Technical Skills
+**Languages**  
+- Python | Java | C++
+
+**Cyber Security Tools**  
+- Kali Linux  
+- Wireshark  
+- Nmap  
+- Metasploit  
+
+**Web & Databases**  
+- HTML | CSS  
+- MySQL  
+
+**Design & Productivity**  
+- Canva  
+- Figma  
 
 ---
 
-### 📊 GitHub Analytics
-![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=radical)
+## 🧩 Highlighted Project
+### 🔹 CyberSecure Tools  
+A growing collection of **security scripts and automation tools** designed to:
+- Analyze system vulnerabilities  
+- Automate basic security testing  
+- Improve understanding of real-world attack & defense scenarios  
 
+This project reflects my **hands-on approach to learning cybersecurity**.
 
 ---
 
-⭐ **“Learning never stops — especially when it comes to securing the digital world.”**
+## 📊 GitHub Activity
+📈 GitHub Stats & Top Languages  
+*(Focused on consistent learning and practical coding)*
+
+---
+
+## ⭐ Personal Motto
+> **“Learn deeply, break responsibly, and build systems that are harder to compromise.”**
