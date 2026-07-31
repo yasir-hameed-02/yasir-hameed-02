@@ -112,12 +112,12 @@ A CRUD-based sports league management application implemented in two versions:
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasir-hameed-02&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasir-hameed-02&theme=radical&hide_border=true" />
 </p>
 
 ---
