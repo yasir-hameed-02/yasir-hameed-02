@@ -117,7 +117,7 @@ A CRUD-based sports league management application implemented in two versions:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasir-hameed-02&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yasir-hameed-02&theme=radical&hide_border=true&v=1" />
 </p>
 
 ---
