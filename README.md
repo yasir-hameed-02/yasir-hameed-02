@@ -1,44 +1,42 @@
-# 🌟 Hey there, I'm Yasir Hammed
+# Hey, I'm Yasir 👋
 
-🎓 **BS Cyber Security Student** | 💻 **Aspiring Ethical Hacker** | ⚙️ **Tech & Programming Enthusiast**
+I'm a Cyber Security student at HITEC University, Pakistan — currently in my 5th semester. Most of my time goes into understanding how systems break, not just how they're built. I'm leaning hard into the **offensive side of security** — red teaming, penetration testing, and figuring out how attackers actually think, so I can get better at stopping them.
 
----
+## What I'm into
 
-### 🧠 About Me
-I’m pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  
-I’m passionate about **ethical hacking, social engineering, and digital defense**, and I love exploring **how systems operate at a deeper level**.  
-I constantly practice and experiment with **offensive and defensive cybersecurity techniques**, while building a **strong programming foundation** to develop secure and efficient solutions.  
+- Red teaming & penetration testing — recon, exploitation, and everything in between
+- Breaking down real systems to see how they actually work under the hood
+- Building tools and scripts that automate the boring parts of security testing
+- Picking up networking, databases, and low-level programming along the way, since offense doesn't work without understanding the fundamentals
 
----
+## Currently learning
 
-### 🚀 Currently Learning
-- 🔐 **Ethical Hacking & Penetration Testing**  
-- 🧩 **Data Structures & Algorithms**  
-- 💻 **Programming in Python, Java, C++**  
-- 🐧 **Linux Administration (Kali & Ubuntu) & Digital Forensics**  
+- Ethical hacking & penetration testing techniques
+- Data structures & algorithms
+- Linux (Kali & Ubuntu) and digital forensics basics
+- Python, Java, and C++
 
----
+## Tools & stack
 
-### ⚙️ Skills & Knowledge
-- **Programming Languages:** Python | Java | C++  
-- **Cybersecurity Tools:** Kali Linux, Wireshark, Nmap, Metasploit  
-- **Web & Database Basics:** HTML | CSS | MySQL  
-- **Design Tools:** Canva | Figma  
+**Languages:** Python · Java · C++
+**Security:** Kali Linux · Wireshark · Nmap · Metasploit
+**Web/DB:** HTML · CSS · MySQL
+**Other:** Git/GitHub, Cisco Packet Tracer, 8086 Assembly
 
----
+## A few things I've built
 
-### 🧩 Featured Project
-#### 🔹 **CyberSecure Tools**
-A personal project focused on **creating scripts and tools** to explore system vulnerabilities, automate security testing, and strengthen my cybersecurity skills.  
-The project emphasizes **hands-on learning and practical applications** of ethical hacking and programming logic.  
+- 🖥️ **[Simple Timer Countdown System](#)** — a countdown timer built in 8086 Assembly (Emu8086)
+- 🔐 **[Security Automation Toolkit](#)** — a CLI toolkit in Python for automating common security-testing tasks
+- 🌐 **[Campus Network System](#)** — a multi-site enterprise network (VLANs, inter-VLAN routing, DHCP, RIPv2) designed and verified in Cisco Packet Tracer
+- 🏆 **Sports League Management System** — a database-driven league management app *(coming soon)*
 
----
+*(Replace the `#` links with the actual repo URLs once each one's live.)*
 
-### 📊 GitHub Analytics
+## GitHub stats
+
 ![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasir-hameed-02&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-hameed-02&layout=compact&theme=radical)
 
+## Let's connect
 
----
-
-⭐ **“Learning never stops — especially when it comes to securing the digital world.”**
+📧 yhlhan52@gmail.com
